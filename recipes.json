@@ -22,7 +22,7 @@
             "RecipeDrink": "Thai Tea with Boba",
             "RecipeDessert": "Mango Sticky Rice",
             "RecipeSite": "https://www.recipetineats.com/chicken-pad-thai/",
-            "RecipeImage": "hhttps://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/padthai.jpg"
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/padthai.jpg"
         },
         {
             "RecipeName": "Bolognese",
@@ -58,7 +58,7 @@
             "RecipeDrink": "Red Wine",
             "RecipeDessert": "Fruit Popsicle",
             "RecipeSite": "https://www.bonappetit.com/recipe/classic-caesar-salad",
-            "RecipeImage": "hhttps://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/caesar.jpg"
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/caesar.jpg"
         },
         {
             "RecipeName": "Soup Dumplings",
