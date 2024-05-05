@@ -1,0 +1,77 @@
+{
+    "Recipes": [
+        {
+            "RecipeName": "Cheeseburgers",
+            "RecipeDescription": "The basic staple of American cuisine: the cheeseburger! A simple recipe that you can make your own.",
+            "RecipeCuisine": "American",
+            "RecipeIngredients": "Ground Beef, Canola Oil, American Cheese, Brioche Buns, Tomatoes, Lettuce, Onions, Salt and Pepper, and Condiments of your choice!",
+            "RecipeDifficulty": "Medium",
+            "RecipeTime": "30 minutes",
+            "RecipeDrink": "Pink Lemonade",
+            "RecipeDessert": "Chocolate Ice Cream",
+            "RecipeSite": "https://www.foodandwine.com/recipes/classic-cheeseburgers",
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/cheeseburger.jpg"
+        },
+        {
+            "RecipeName": "Pad Thai",
+            "RecipeDescription": "The classic Thai dish that everyone loves! This recipe combines fresh ingredients with an amazing sauce.",
+            "RecipeCuisine": "Thai",
+            "RecipeIngredients": "Noodles, Garlic, Protein of choice, Eggs, Bean Sprouts, Green Onions, Roasted Peanuts, Limes",
+            "RecipeDifficulty": "Easy",
+            "RecipeTime": "30 minutes",
+            "RecipeDrink": "Thai Tea with Boba",
+            "RecipeDessert": "Mango Sticky Rice",
+            "RecipeSite": "https://www.recipetineats.com/chicken-pad-thai/",
+            "RecipeImage": "hhttps://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/padthai.jpg"
+        },
+        {
+            "RecipeName": "Bolognese",
+            "RecipeDescription": "The yummiest pasta dish you will ever experience! It is a classic red meat sauce that everyone loves.",
+            "RecipeCuisine": "Italian",
+            "RecipeIngredients": "Onion, Celery, Carrot, Beef Chuck, Tomato Paste, Chicken Stock, Whole Milk, Noodle of choice",
+            "RecipeDifficulty": "Hard",
+            "RecipeTime": "3 hours",
+            "RecipeDrink": "White Wine",
+            "RecipeDessert": "Tiramisu",
+            "RecipeSite": "https://www.bonappetit.com/recipe/bas-best-bolognese",
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/bolognese.jpg"
+        },
+        {
+            "RecipeName": "Chicken Vindaloo",
+            "RecipeDescription": "This popular curry dish will make you drool! It is spicy and tangy in all the right places.",
+            "RecipeCuisine": "Indian",
+            "RecipeIngredients": "Chicken, Onion, Serrano Peppers, Tomato Paste, White Vinegar, Garlic, Ginger, Red Chili Flakes, Paprika, Coriander, Turmeric, Mustard Powder, Cumin, Rice",
+            "RecipeDifficulty": "Medium",
+            "RecipeTime": "30 minutes",
+            "RecipeDrink": "Mango Lassi",
+            "RecipeDessert": "Gulab Jamun",
+            "RecipeSite": "https://cooking.nytimes.com/recipes/1024642-chicken-vindaloo",
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/vindaloo.jpg"
+        },
+        {
+            "RecipeName": "Caesar Salad",
+            "RecipeDescription": "The best salad, ever! It is classic and easy to whip up on a nice summer day.",
+            "RecipeCuisine": "Italian",
+            "RecipeIngredients": "Romaine Lettuce, Parmesan, Croutons, Olive Oil, Caesar Salad Dressing",
+            "RecipeDifficulty": "Easy",
+            "RecipeTime": "10 minutes",
+            "RecipeDrink": "Red Wine",
+            "RecipeDessert": "Fruit Popsicle",
+            "RecipeSite": "https://www.bonappetit.com/recipe/classic-caesar-salad",
+            "RecipeImage": "hhttps://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/caesar.jpg"
+        },
+        {
+            "RecipeName": "Soup Dumplings",
+            "RecipeDescription": "The best dumpling out of all the dumplings! You can eat this on any day, anywhere.",
+            "RecipeCuisine": "Chinese",
+            "RecipeIngredients": "Chicken, Ginger, Green Onions, Dumpling Wrappers, Ground Pork, Soy Sauce, Salt and Pepper",
+            "RecipeDifficulty": "Hard",
+            "RecipeTime": "3 hours",
+            "RecipeDrink": "Green Tea",
+            "RecipeDessert": "Mochi Ice Cream",
+            "RecipeSite": "https://omnivorescookbook.com/soup-dumplings/",
+            "RecipeImage": "https://raw.githubusercontent.com/danatran03/JSONProjectsIT315/master/dumplings.jpg"
+        }
+    ],
+    "Status": "OK"
+}
